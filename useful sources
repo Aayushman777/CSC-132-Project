@@ -1,2 +1,5 @@
 #pygame commands and how to use the library
 https://www.pygame.org/docs/
+
+#sys commands and how they're used
+https://docs.python.org/3/library/sys.html
